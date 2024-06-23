@@ -63,7 +63,7 @@
         list-style: none;              
     }
 
- 
+
 
     .hamburger {
         display: none;
@@ -178,4 +178,37 @@
     color: black;
   }
 
- 
+
+  .dropdown-content {
+    
+    
+    position: absolute;
+    top: 100%; 
+    right: 0;
+    border: 2px solid white;
+    background-color: #55e0a3;
+    padding: 10px;
+    z-index: 1; 
+    margin-top: 5px;
+}
+
+.dropdown-content  {
+    display: flex;
+    padding: 5px 10px;
+    color: #000; 
+   
+}
+
+  @media (max-width: 849px)
+  {
+      .menu-icon{
+          display: inline;
+          margin-left: 10px;
+      }
+      .link3{
+          display: none;
+      }
+    
+      
+     
+  }
