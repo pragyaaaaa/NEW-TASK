@@ -73,11 +73,7 @@ h2 {
   text-align: center;
 }
 
-.foot {
-  display: flex;
-  justify-content: center;
-  margin-top: 20px;
-}
+
   
   .footer {
     background-color: #a8a1a1;
