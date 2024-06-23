@@ -181,7 +181,6 @@
 
   .dropdown-content {
     
-    
     position: absolute;
     top: 100%; 
     right: 0;
@@ -205,9 +204,7 @@
           display: inline;
           margin-left: 10px;
       }
-      .link3{
-          display: none;
-      }
+    
     
       
      
